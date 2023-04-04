@@ -10,7 +10,7 @@ const options = {
     method: 'POST',
     headers: {
         Accept: 'application/json, text/plain, */*',
-        'Authorization': 'Bearer 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',
+        'Authorization': 'Bearer You-Key',
         'Content-Type': 'application/json',
         'OpenAI-Event-Stream': 'true'
     },
